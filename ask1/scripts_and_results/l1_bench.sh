@@ -1,0 +1,10 @@
+/home/sotiris/Documents/advarch/code/run_l1.sh blackscholes
+/home/sotiris/Documents/advarch/code/run_l1.sh bodytrack
+/home/sotiris/Documents/advarch/code/run_l1.sh canneal
+/home/sotiris/Documents/advarch/code/run_l1.sh facesim
+/home/sotiris/Documents/advarch/code/run_l1.sh ferret
+/home/sotiris/Documents/advarch/code/run_l1.sh fluidanimate
+/home/sotiris/Documents/advarch/code/run_l1.sh freqmine
+/home/sotiris/Documents/advarch/code/run_l1.sh rtview
+/home/sotiris/Documents/advarch/code/run_l1.sh streamcluster
+/home/sotiris/Documents/advarch/code/run_l1.sh swaptions

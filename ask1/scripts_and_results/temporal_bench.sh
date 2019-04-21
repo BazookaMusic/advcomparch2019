@@ -1,0 +1,1 @@
+/home/sotiris/Documents/advarch/code/temporal_test.sh blackscholes bodytrack canneal  facesim ferret fluidanimate freqmine rtview streamcluster swaptions

@@ -1,0 +1,1 @@
+/home/sotiris/Documents/advarch/code/run_prefetching.sh blackscholes bodytrack canneal  facesim ferret fluidanimate freqmine rtview streamcluster swaptions

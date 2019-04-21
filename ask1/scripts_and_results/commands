@@ -1,0 +1,2 @@
+/home/sotiris/Documents/advarch/code/plot_l1.sh bodytrack  $(ls | grep bodytrack)
+/home/sotiris/Documents/advarch/code/run_l1.sh blackscholes

@@ -1,0 +1,1 @@
+/home/sotiris/Documents/advarch/code/run_l2.sh blackscholes bodytrack canneal  facesim ferret fluidanimate freqmine rtview streamcluster swaptions
